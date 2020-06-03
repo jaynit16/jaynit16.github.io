@@ -1,2 +1,6 @@
 # jaynit16.github.io
-<a href="My Web Temp">My Website
+<html>
+<body>
+<center><a href="html5up-strongly-typed">MY WEBSITE</a></center>
+ </body>
+</html>
